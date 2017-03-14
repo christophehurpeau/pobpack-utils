@@ -1,5 +1,7 @@
 # pobpack-utils [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/pobpack-utils.svg)](https://greenkeeper.io/)
+
 Utils for building projects with webpack.
 
 [![Dependency ci Status][dependencyci-image]][dependencyci-url]
